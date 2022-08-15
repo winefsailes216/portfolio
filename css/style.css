@@ -366,6 +366,9 @@ header.sticky{
     margin-top: 5rem;
 }
 .row{
+    justify-items: center;
+    text-align: center;
+    justify-content: center;
     background: #ffffff;
     box-shadow: 18px 0px 87px 0px rgb(10 15 70 /7%);
     border-radius: 12px;
