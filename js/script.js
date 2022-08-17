@@ -31,7 +31,7 @@ const sr = ScrollReveal({
 sr.reveal('.text,.social',{delay:300, origin:'bottom'})
 sr.reveal('.header',{delay:200, origin:'top'})
 
-sr.reveal('.sub-service,.about,.portfolio,.service,.contact,.footer',{delay:100, origin:'bottom'})
+// sr.reveal('.sub-service,.about,.portfolio,.service,.contact,.footer',{delay:100, origin:'bottom'})
 // end Scroll reveal
 
 
